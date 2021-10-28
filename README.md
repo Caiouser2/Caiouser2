@@ -1,10 +1,10 @@
-### olá! me chamo Caio
+## Olá! Me chamo Caio Oliveira
 
- 💻 aprendendo HTML,CSS,JS e React JS!
+💻 Aprendendo HTML, CSS, JS e React JS...!
  
-  Qualquer opnião construtiva é bem vinda! 
+❓ Qualquer opnião construtiva é bem vinda! 
  
- ⚡ Programador iniciante em cosnstante aprendizado!
+⚡ Programador iniciante em cosnstante aprendizado!
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
