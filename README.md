@@ -1,10 +1,10 @@
-## Olá! Me chamo Caio Oliveira Costa.
+# Olá! Me chamo Caio Oliveira Costa.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232C49F7&lines=Desenvolvedor+Front+End)](https://git.io/typing-svg)
+<!--🖥️ Desenvolvedor Front-End.-->
 
-🖥️ Desenvolvedor Front-End.
+<!--💻 Tecnologias: HTML, CSS JS.-->
 
-💻 Tecnologias: HTML, CSS JS.
-
-⚡ Programador em cosnstante aprendizado!
+<!--## ⚡ Programador em cosnstante aprendizado!-->
 
  <div style="display: inline_block;">
  <br>
