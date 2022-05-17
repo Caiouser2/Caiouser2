@@ -5,8 +5,8 @@
  <img align="center" alt="/" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="/" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="/" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="/" height="70" width="100" src="https://raw.githubusercontent.com/alexandresaints/alexandresaints/main/Profile--GitHubAuxiliaryFiles/react-original.svg">
- <img align="center" alt="/" height="70" width="100" src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg">
+ <img align="center" alt="/" height="80" width="110" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
+ <img align="center" alt="" height="72" width="110" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"
 </div>
 
  
