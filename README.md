@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&duration=4000&pause=200&color=CD2A20&multiline=true&width=500&height=130&lines=Ol%C3%A1%2C+sou+Caio+Oliveira!;Desenvolvedor+Front-end%2C;skills%3A)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&duration=4000&pause=200&color=CD2A20&multiline=true&width=470&height=130&lines=Ol%C3%A1%2C+sou+Caio+Oliveira!;Desenvolvedor+Front-end%2C;skills%3A)](https://git.io/typing-svg)
 
  <div style="display: inline_block;">
  <br>
